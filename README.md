@@ -7,7 +7,7 @@ A lightweight way to find similar URLs with all possible TLDs
 • Easy to use and quick for large and small tests alike<br>
 
 # Before Using
-The following packages are not built-in for Python and might need to be insatlled: <br>
+The following packages are not built-in for Python and might need to be installed: <br>
 • urllib3 <br>
 ```pip install urllib3```<br>
 • tqdm <br>
